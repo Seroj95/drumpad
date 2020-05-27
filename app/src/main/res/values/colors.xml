@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#180237</color>
+    <color name="colorPrimaryDark">#180237</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="bluestartcolor">#00BCD4</color>
+    <color name="blueendcolor">#3F51B5</color>
+
+
+    <color name="orangestartcolor">#FF8660</color>
+    <color name="orangeendcolor">#EA3800</color>
+
+
+    <color name="pinkstartcolor">#FA7DA7</color>
+    <color name="pinkeendcolor">#F30254</color>
+
+    <color name="purplestartcolor">#E570FF</color>
+    <color name="purpleeendcolor">#B601D5</color>
+
+    <color name="grenstartcolor">#7FFF85</color>
+    <color name="grenendcolor">#0DC100</color>
+</resources>
